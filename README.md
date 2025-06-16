@@ -6,7 +6,8 @@ We used the ESP32 microcontroller, which connects to Wi-Fi and controls the devi
 -> Working (Step-by-Step):
 
 1.Wi-Fi Connection:
-The ESP32 connects to your home Wi-Fi so it can communicate with your smartphone app.
+The ESP32 connects to your home Wi-Fi so it can communicate with your smartphone app(Change the credentials
+ according to the code).
 
 2.Mobile Control:
 Using the Blynk app, you can turn ON/OFF devices like fans and lights from anywhere using your phone.
