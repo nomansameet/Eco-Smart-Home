@@ -4,6 +4,7 @@ This project is a smart home automation system built using IoT (Internet of Thin
 We used the ESP32 microcontroller, which connects to Wi-Fi and controls the devices through a relay module. The garden is watered automatically using a moisture sensor, which checks the soil and waters only when needed. Everything can also be controlled manually via the Blynk app on a mobile phone.
 
 -> Working (Step-by-Step):
+
 1.Wi-Fi Connection:
 The ESP32 connects to your home Wi-Fi so it can communicate with your smartphone app.
 
